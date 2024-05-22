@@ -6,7 +6,7 @@ body {
   }
   
   .background-container {
-    background-image: url('/imagens/background.jpg');
+    background-image: url('imagens/background.jpg');
     background-size: cover;
     background-position: center;
     height: 100vh;
